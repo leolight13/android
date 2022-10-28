@@ -1,0 +1,8 @@
+These the most commonly used git commands:
+
+1. $ git clone <remote repo url>
+2. $ git add .
+3. $ git commit -m "commit msg"
+4. $ git pull
+5. $ git pull --rebase
+6. $ git push origin main
