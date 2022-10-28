@@ -1,0 +1,4 @@
+1. Kotlin is null safe, use safe call operator or elvis operator to avoid null pointer exception.
+2. Kotlin is type safe.
+3. Kotlin reduces the lines of code making it easier and cleaner.
+ 
